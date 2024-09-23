@@ -1,0 +1,21 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 1,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "Min Dark",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "errorLens.exclude": [
+        "Unknown Word"
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.compactFolders": false
+}

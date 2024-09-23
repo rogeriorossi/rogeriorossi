@@ -5,7 +5,7 @@
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "diffEditor.ignoreTrimWhitespace": false,
     "vsicons.dontShowNewVersionMessage": true,
-    "workbench.colorTheme": "Min Dark",
+    "workbench.colorTheme": "Atom One Dark",
     "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.5,

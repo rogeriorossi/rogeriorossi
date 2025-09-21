@@ -5,7 +5,7 @@ Gosta de explorar novos desafios e faço isso de maneira autodidata.
 <div align="center">
   <a href="https://github.com/rogeriorossi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriorossi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorossi&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorossi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>

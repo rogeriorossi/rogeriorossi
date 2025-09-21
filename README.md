@@ -5,14 +5,7 @@
 Sou uma pessoa que adora tecnologia e vive tentando aprender coisas novas. 
 Gosto de explorar novos desafios e faço isso de maneira autodidata.
 
-### 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/rogeriorossi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriorossi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorossi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-</div>
-
+---
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Rossi-Js" height="30" title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">         
@@ -24,6 +17,15 @@ Gosto de explorar novos desafios e faço isso de maneira autodidata.
   <img align="center" alt="Rossi-Bs" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Rossi-Sql" title="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
+
+### 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/rogeriorossi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriorossi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorossi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
   
   ##
   

@@ -5,7 +5,7 @@
 Sou uma pessoa que adora tecnologia e vive tentando aprender coisas novas. 
 Gosto de explorar novos desafios e faço isso de maneira autodidata.
 
----
+##
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Rossi-Js" height="30" title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">         

@@ -1,7 +1,12 @@
 ## Olá! Eu sou o Rogério Rossi!
 
+**`Desenvolvedor FullStack Autoditada`**
+
 Sou uma pessoa que adora tecnologia e vive tentando aprender coisas novas. 
 Gosto de explorar novos desafios e faço isso de maneira autodidata.
+
+### 📊 Estatísticas
+
 <div align="center">
   <a href="https://github.com/rogeriorossi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriorossi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
